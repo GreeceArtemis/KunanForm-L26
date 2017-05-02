@@ -1,0 +1,49 @@
+body{
+  box-sizing: border-box;
+  padding: 50px 10%;
+  font-family: 'Raleway', sans-serif;
+  color:  #b5b6b7;
+
+}
+.containerForm{
+  padding: 20px 10%;
+  background-color: #4a4af1;
+}
+.bases{
+  color: #FF7F7F;
+}
+.nota{
+  font-weight: bold;
+  font-style: oblique;
+}
+.datosRepresentante, .datoEntidad{
+  position: relative;
+}
+.sinBorde{
+  border: none;
+  border-bottom: 1px solid #ccc;
+  display: block;
+  width: 75%;
+}
+
+.ladoIzq{
+  position: relative;
+  width: 49%;
+  background-color: #ad2424;
+  display: inline-block;
+
+}
+.ladoDere{
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 49%;
+  background-color: #ad2424;
+  display: inline-block;
+}
+.regionRes{
+  margin-bottom: 105px;
+}
+footer{
+
+}
